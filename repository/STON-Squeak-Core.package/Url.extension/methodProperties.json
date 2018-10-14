@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"=" : "sl 10/14/2018 12:04",
+		"hash" : "sl 10/14/2018 12:05",
+		"stonOn:" : "sl 10/14/2018 12:20",
+		"stonContainSubObjects" : "sl 10/14/2018 12:20"
+	},
+	"class" : {
+		"stonName" : "sl 10/14/2018 12:20",
+		"fromSton:" : "sl 10/14/2018 12:20"
+	}
+}
