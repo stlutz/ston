@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"stonOn:" : "sl 10/14/2018 12:31",
+		"stonContainSubObjects" : "sl 10/14/2018 12:31"
+	},
+	"class" : {
+		"applicationJson" : "sl 10/14/2018 12:42",
+		"fromSton:" : "sl 10/14/2018 12:31",
+		"stonName" : "sl 10/14/2018 12:31",
+		"textPlain" : "sl 10/14/2018 12:42"
+	}
+}
