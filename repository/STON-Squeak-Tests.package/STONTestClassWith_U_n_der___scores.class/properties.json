@@ -1,0 +1,14 @@
+{
+	"category" : "STON-Squeak-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "STONTestClassWith_U_n_der___scores",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
