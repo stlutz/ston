@@ -1,4 +1,7 @@
 {
+	"instance" : {
+		"translateTo:" : "sl 10/20/2018 10:04"
+	},
 	"class" : {
 		"readTimezoneOffsetFrom:" : "sl 10/14/2018 15:55"
 	}
